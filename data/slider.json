@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "foto":"https://res.cloudinary.com/onestagrouppl/image/upload/v1679514649/rendery/Home_slide_3.jpg",
+        "claim": "Wizualizacje",
+        "desc": "Tworzymy fotorealistyczne wizualizacje",
+        "active":true
+    },
+    {
+        "id":2,
+        "foto":"https://res.cloudinary.com/onestagrouppl/image/upload/v1679514649/rendery/Home_slide_2.jpg",
+        "claim": "Animacje",
+        "desc": "Tworzymy fotorealistyczne Animacje",
+        "active":false
+    },
+    {
+        "id":3,
+        "foto":"https://res.cloudinary.com/onestagrouppl/image/upload/v1679514649/rendery/Home_slide_4.jpg",
+        "claim": "Loga",
+        "desc": "Nasze studion specjalizuje sie w tworzeniu znaków firmowych oraz identyfikacji wizualnych",
+        "active":true
+    }
+]
