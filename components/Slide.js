@@ -4,7 +4,7 @@ import { useState } from 'react'
 import Slides from '../data/slider'
 import Image from 'next/image'
 
-export default function slide() {
+export default function Slide() {
 
   const slider = useRef();
   const claim = useRef();
