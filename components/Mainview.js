@@ -4,7 +4,7 @@ import { useRef } from 'react'
 import Header from './Header'
 import Slide from './Slide'
 import Footer from './Footer'
-import Socialheadericons from './socialheadericons'
+import Socialheadericons from './Socialheadericons'
 import Sygnet from "../images/somewhere_sygnet.svg"
 
 

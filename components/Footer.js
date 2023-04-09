@@ -4,7 +4,7 @@ import {MdOutlinePhone} from 'react-icons/md'
 import {BsWhatsapp} from 'react-icons/bs'
 import {FaFacebookMessenger} from 'react-icons/fa'
 import {FiMail} from 'react-icons/fi'
-import Companydata from './companydata'
+import Companydata from './Companydata'
 
 export default function Footer() {
 

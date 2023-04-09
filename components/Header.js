@@ -6,7 +6,7 @@ import {SiBehance} from 'react-icons/si'
 import {FaArtstation} from 'react-icons/fa'
 import {RxHamburgerMenu} from 'react-icons/rx'
 import {IoIosArrowUp} from 'react-icons/io'
-import Socialheadericons from './socialheadericons';
+import Socialheadericons from './Socialheadericons';
 import Logo from '../images/somewhere_logo.svg';
 import Link from 'next/link';
 
